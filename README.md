@@ -3,6 +3,10 @@ Repositório criado com  propósito de acompanhar a minha evolução na linguage
 Aqui postarei os desafios e exercícios passados pelo Professor Guanabara!
 
  ##
+```
+ nome= input('Qual seu nome?')
+print('Olá', nome, 'Prazer em te conhecer!!')
+```
   
 <div> 
   <a href="https://twitter.com/mundodevpaty" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
